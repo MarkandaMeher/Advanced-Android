@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sir_main</string>
+    <string name="startButtonText">start</string>
+    <string name="stopButtonText">stop</string>
+
+</resources>
